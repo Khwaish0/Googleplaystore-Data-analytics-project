@@ -1,0 +1,11 @@
+Require Libraries for the tasks are as follows:
+
+pandas
+numpy
+matplotlib
+seaborn
+
+
+Install dependencies depend on:
+using Terminal-
+pip install -r requirements.txt
